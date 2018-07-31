@@ -45,8 +45,8 @@ def login():
     #usename=raw_input("请输入用户名：")
     #passwd=raw_input("请输入密码：")
     data={
-        'username': 'llm164826761',
-        'password':'qw164826761',
+        'username': 'aaaaa',
+        'password':'aaaaa',
         'appid': 'otn'
 
     }
